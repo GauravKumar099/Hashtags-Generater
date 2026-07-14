@@ -1,0 +1,6 @@
+{
+  "name": "HashtagAI",
+  "description": "SaaS platform to instantly generate high-quality hashtags, captions, titles, keywords, and content ideas for social media using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
